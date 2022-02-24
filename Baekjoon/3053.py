@@ -1,0 +1,5 @@
+import math
+
+r = int(input())
+print("%.6f" %(r * r * math.pi))
+print("%.6f" %(2 * (r ** 2)))
